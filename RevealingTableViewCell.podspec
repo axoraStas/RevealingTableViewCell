@@ -113,7 +113,7 @@ Pod::Spec.new do |s|
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
   # Other stuff
-  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4' }
-  s.swift_version = '4.2'
+  s.pod_target_xcconfig = { 'SWIFT_VERSION' => '5' }
+  s.swift_version = '5'
 
 end
